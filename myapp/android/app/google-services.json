@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020514826615",
+    "project_id": "bmc-assignment",
+    "storage_bucket": "bmc-assignment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020514826615:android:b7fab04b7c7c625014c972",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamVnnM9Qtcgu63dZ3r8Nrn-pF70Axvxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
